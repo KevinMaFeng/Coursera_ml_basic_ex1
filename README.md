@@ -8,7 +8,10 @@ the exam is mainly focused on Linear Regression which is implemented by gradient
 for more details, please refer to ex1.pdf file.
 
 Other Notable Open Source Machine Learning Sources
+
+https://github.com/schneems/Octave
+
 https://github.com/everpeace/ml-class-assignments
 
-https://github.com/joewandy/Stanford-Machine-Learning
+
 
